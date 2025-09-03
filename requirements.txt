@@ -1,0 +1,7 @@
+numpy
+librosa
+soundfile
+scipy
+webrtcvad
+noisereduce
+setuptools
