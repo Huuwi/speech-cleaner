@@ -1,0 +1,254 @@
+[
+    {
+        "status": "success",
+        "output_path": "/0203954690100449/transcriber/6535130.wav.json",
+        "transcriptions": [
+            {
+                "speaker": "SPEAKER_00",
+                "text": "a lô có gì không ừ chánh ơ thấy đồn chứ bạn ấy bạn có hẹn tôi đi đánh béc ca bôn mà bạn quên hả hả gì ý là hôm nay bạn hẹn tôi đi đá banh mà bạn quên hả bạn đang ở đâu ấy.",
+                "start_time": 0.39,
+                "end_time": 9.41
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "hả dạ quen rồi.",
+                "start_time": 9.41,
+                "end_time": 10.44
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "đội quán cà phê hở ờ thế bây giờ kẻ tín dụng bên việt ra đít á khi nào bạn mới đi đóng được kẻ tín dụng bên việt ra đít nè khi nào bạn mới đi đóng được ở khám chí hoà hở chỗ đó đâu có đóng tiền đâu đâu bạn chỗ đó là cái trại mà bạn ở trong bạn bạn đứng đi vô trống bạn người đẹp trai sáng sủa sao bạn vô trống được nhìn mặt bạn cũng ưu tú lắm mà sao bạn lại muốn vô đó tui hà tui tự thật là hà minh kính nè.",
+                "start_time": 10.44,
+                "end_time": 32.95
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "nghĩa.",
+                "start_time": 12.1,
+                "end_time": 12.42
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "nghe.",
+                "start_time": 18.22,
+                "end_time": 18.69
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "bạn..",
+                "start_time": 19.45,
+                "end_time": 19.98
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "ngoại.",
+                "start_time": 23.05,
+                "end_time": 23.62
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "tôi unk.",
+                "start_time": 31.49,
+                "end_time": 31.79
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "mình giờ mình cùng họ hà với nhau cả sao bạn cứ muốn đi đâu.gia đình mình đâu ai muốn đi đâu đâu bạn.",
+                "start_time": 33.83,
+                "end_time": 39.57
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "vô chậu ông thấm cho vô chậu.",
+                "start_time": 39.3,
+                "end_time": 41.34
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "dô chổng là không có đóng được đâu dô chổng chỉ có đấm nhau thôi chứ bạn nghĩ chẳng người ta kỳ lắm bây giờ cái thẻ của bạn bây giờ là ngân bốn mươi ba bốn triệu rồi khi nào bạn cũng xử lý cho bên tôi.",
+                "start_time": 41.07,
+                "end_time": 50.34
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "nhiều lần giảng viên.",
+                "start_time": 49.71,
+                "end_time": 50.28
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "nghệ an bếp.",
+                "start_time": 50.34,
+                "end_time": 50.82
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "nhìn bạn cũng đẹp trai sáng sủa để tóc dẻ ngôi là sao bạn lại muốn đi trống giờ bạn ngồi ngôi à bạn đang ở trống hả thôi bạn đi ra đi bạn đi ra rồi tôi hướng dẫn bạn thôi tôi không đi vô bây giờ sao bạn nhây đúng không bạn không muốn xử lý cái thẻ này đúng không à minh tuấn là tem với bạn đúng chưa.",
+                "start_time": 51.09,
+                "end_time": 65.57
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "đứng sủa để tóc dẻo ngôi.",
+                "start_time": 52.36,
+                "end_time": 53.61
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "giờ bán ổ..",
+                "start_time": 54.55,
+                "end_time": 55.28
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "lí do.",
+                "start_time": 60.65,
+                "end_time": 60.92
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "những nạn nhân.",
+                "start_time": 64.56,
+                "end_time": 65
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "ờ đứng dưới đi nữa sao bạn nhắm ờ dự trì cái cái thái độ cũng như cư xử như vậy bao giờ bạn mới lấy vợ hả bạn không thích lấy vợ à bạn không có gì bạn không có tính dự trì tròn giống hay sao cái gì dợ là bao la dợ là bao la hả thế thì ờ thì bạn có biết bệnh không.",
+                "start_time": 65.91,
+                "end_time": 80.79
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "dân vô giây.",
+                "start_time": 66.33,
+                "end_time": 66.96
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "ngọc trinh.",
+                "start_time": 74.65,
+                "end_time": 75.43
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "cái bệnh bệnh nào ngoài da mới bệnh đó bạn nhắm bạn duy trì được bao lâu.",
+                "start_time": 81.1,
+                "end_time": 85.42
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "ấy.",
+                "start_time": 85.59,
+                "end_time": 85.99
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "nghe.",
+                "start_time": 86.65,
+                "end_time": 86.89
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "bố mẹ bố mối như vậy.",
+                "start_time": 86.97,
+                "end_time": 87.97
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "đóng giờ vào đây.",
+                "start_time": 87.97,
+                "end_time": 88.79
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "tôi hỏi bạn nghe là bạn có thực sự tỉnh táo và nói chuyện với tôi không nhỉ.",
+                "start_time": 89.15,
+                "end_time": 91.71
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "bạn đang đu dây bạn nói chuyện với tôi thì bạn đang ngỏ ngoáng để xem mình nói chuyện nha.",
+                "start_time": 91.97,
+                "end_time": 94.97
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "chứ tui đang ngồi ghế nói chuyện với bạn đó.",
+                "start_time": 95.53,
+                "end_time": 97.48
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "mày có tỉnh táo không.",
+                "start_time": 98.38,
+                "end_time": 99.29
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "bạn có được tỉnh táo không trời ơi thiệt.",
+                "start_time": 100.57,
+                "end_time": 102.19
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "nếu bạn không định táo thì thôi tôi xin các cá cuộc đội tôi liên hệ được ai tôi liên hệ chứ giờ tôi thấy bạn không được táo rồi đó.",
+                "start_time": 102.55,
+                "end_time": 107.73
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "hơn.",
+                "start_time": 108.42,
+                "end_time": 108.94
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "sao.",
+                "start_time": 109.38,
+                "end_time": 109.82
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "giờ bạn ngủ rồi hả.",
+                "start_time": 110.51,
+                "end_time": 112.47
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "giờ bạn ngủ rồi hả.",
+                "start_time": 111.42,
+                "end_time": 112.35
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "bạn nóng được không không nóng được chút lại đi để tôi kết thúc cuộc gọi luôn nha.",
+                "start_time": 112.96,
+                "end_time": 116.57
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "đó là lần đầu tiên trong sách giáo khoa lịch sử thấy đứa con nhỏ này.",
+                "start_time": 116.67,
+                "end_time": 120.08
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "bạn im lặng hớ bạn im lặng và đồng ý phương án của tôi do liên hệ đề án tới hải nhá.",
+                "start_time": 120.08,
+                "end_time": 123.98
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "hai mẹ.",
+                "start_time": 122.83,
+                "end_time": 123.35
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "nghe.",
+                "start_time": 123.98,
+                "end_time": 124.91
+            }
+        ]
+    }
+]

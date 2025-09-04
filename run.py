@@ -12,21 +12,21 @@ import scipy.signal as signal
 import webrtcvad
 import noisereduce as nr
 
-INPUT_AUDIO_PATH  = "./data.wav"
-OUTPUT_AUDIO_PATH = "./data_output.wav"
+INPUT_AUDIO_PATH  = "./6532555_input.wav"
+OUTPUT_AUDIO_PATH = "./6532555.wav"
 
 # ====== DEFAULT PARAMETERS ======
 TARGET_SAMPLE_RATE              = 16000
 HIGHPASS_CUTOFF_HZ              = 60        # high-pass cutoff (Hz)
 LOWPASS_CUTOFF_HZ               = 3800      # low-pass cutoff  (Hz) ~ telephone band
-VAD_AGGRESSIVENESS_MODE         = 2         # 0..3 (WebRTC); higher = stricter
+VAD_AGGRESSIVENESS_MODE         = 1         # 0..3 (WebRTC); higher = stricter
 
 MIN_UTTERANCE_DURATION_SEC      = 0.20      # min duration of a kept utterance (s)
 MIN_GAP_BETWEEN_UTTERANCES_SEC  = 0.12      # min gap to split utterances (s)
-PAD_AROUND_SPEECH_SEC           = 0.05      # pad around detected speech (s)
+PAD_AROUND_SPEECH_SEC           = 0.1      # pad around detected speech (s)
 
 DENOISE_PROP_DECREASE_STAGE1    = 0.90      # denoise strength (stage 1)
-DENOISE_PROP_DECREASE_STAGE2    = 0.80      # denoise strength (stage 2)
+DENOISE_PROP_DECREASE_STAGE2    = 0.5          # denoise strength (stage 2)
 
 CROSSFADE_DURATION_MS           = 10        # crossfade length if no delay is inserted (ms)
 FADE_DURATION_MS                = 6         # small fade-in/out for delayed concatenation (ms)
@@ -251,7 +251,7 @@ def process_file(in_path: str, out_path: str):
     # 5) Main VAD on denoised signal
     speech_mask = vad_mask_webrtc(audio_denoised, sample_rate, frame_ms=30, mode=VAD_AGGRESSIVENESS_MODE, pad_ms=150)
 
-    # 6+ 7) filter by RMS (remove too-quiet/unclear speech)
+    # 6+ 7) filter by RMS (remove too-quiet/too-short segments)
     segments = mask_to_segments(speech_mask, sample_rate, min_speech_sec=MIN_UTTERANCE_DURATION_SEC,
                                 min_gap_sec=MIN_GAP_BETWEEN_UTTERANCES_SEC, pad_sec=PAD_AROUND_SPEECH_SEC)
     segments = filter_segments_by_rms(audio_denoised, segments, min_rms_dbfs=-40.0)
@@ -260,7 +260,7 @@ def process_file(in_path: str, out_path: str):
     chunks = [audio_denoised[start:end] for (start, end) in segments]
 
     # 9) Remove inner-silence inside each chunk
-    chunks = [remove_silence(c, sample_rate, win_ms=30, thr_db=-60.0) for c in chunks]
+    chunks = [remove_silence(c, sample_rate, win_ms=30, thr_db=-70.0) for c in chunks]
 
     # 10) Join with either delay or crossfade
     output_audio = join_with_delay_or_crossfade(

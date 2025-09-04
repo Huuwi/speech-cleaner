@@ -1,0 +1,200 @@
+[
+    {
+        "status": "success",
+        "output_path": "/0203954690100449/transcriber/6532555.wav.json",
+        "transcriptions": [
+            {
+                "speaker": "SPEAKER_01",
+                "text": "biết..",
+                "start_time": 0.03,
+                "end_time": 0.44
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "a lô.",
+                "start_time": 0.44,
+                "end_time": 0.99
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "lựa ai thì sẽ đá hình.",
+                "start_time": 1.36,
+                "end_time": 4.62
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "lỡ.",
+                "start_time": 1.45,
+                "end_time": 2.07
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "hả em hỏi anh mai có.",
+                "start_time": 4.99,
+                "end_time": 6.31
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "mày cứ lủn loạn à đồ mẹ tào lao.",
+                "start_time": 7.05,
+                "end_time": 9.99
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "mai mai rủi.",
+                "start_time": 10.19,
+                "end_time": 11.88
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "ngày.",
+                "start_time": 10.36,
+                "end_time": 10.7
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "n.",
+                "start_time": 11.17,
+                "end_time": 11.39
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "ủa tôi hỏi anh không phải tin may thôi mắc cái gì mà anh nói kiểu đó.",
+                "start_time": 11.88,
+                "end_time": 15.54
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "mấy mày có biết tao chảnh đâu.",
+                "start_time": 16.16,
+                "end_time": 19.15
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "máy bay.",
+                "start_time": 16.21,
+                "end_time": 16.84
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "anh ăn con đi ăn chưa.",
+                "start_time": 18.1,
+                "end_time": 19.39
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "mấy mày có biết tao chặn mấy số số mấy mày.",
+                "start_time": 19.83,
+                "end_time": 24.58
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "tổng ban ngày.",
+                "start_time": 23.81,
+                "end_time": 24.67
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "anh chặn có một ngàn số tôi cũng gọi được nữa anh khỏi chặn mà anh chặn có mấy số.",
+                "start_time": 24.87,
+                "end_time": 28.6
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "ờ ờ ờ tụi mày đã.",
+                "start_time": 29.46,
+                "end_time": 32.09
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "ừ..",
+                "start_time": 29.49,
+                "end_time": 29.95
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "rồi mày đã nghe cát nói muốn gì.",
+                "start_time": 31.06,
+                "end_time": 34.39
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "cho tôi hỏi anh nào sẽ ăn đánh răng chưa.",
+                "start_time": 35.08,
+                "end_time": 36.84
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "hỏi anh nào sẽ anh đánh ghen.",
+                "start_time": 35.42,
+                "end_time": 36.43
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "hay là giờ cái kem đánh răng của anh hết hạn sử dụng rồi.",
+                "start_time": 37.22,
+                "end_time": 39.82
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "đánh răng anh dậy mà mày có đồ đồ sống chưa.",
+                "start_time": 40.43,
+                "end_time": 44.19
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "à mày có..",
+                "start_time": 42.27,
+                "end_time": 42.76
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "em muốn nhận coi anh còn hạng sử dụng không.",
+                "start_time": 43.1,
+                "end_time": 45.14
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "mày có mặc đồ sọc chưa.",
+                "start_time": 45.78,
+                "end_time": 47.42
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "họ.",
+                "start_time": 46.02,
+                "end_time": 46.37
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "đồ sọc đó dành cho anh á.",
+                "start_time": 47.75,
+                "end_time": 49.27
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "cổ vẹn cho mày.",
+                "start_time": 49.91,
+                "end_time": 52.02
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "để dạy cho mày.",
+                "start_time": 49.93,
+                "end_time": 50.88
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "đi giải giọng đồ lừa đảo.",
+                "start_time": 52.63,
+                "end_time": 54.62
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "ngoại góp.",
+                "start_time": 54.69,
+                "end_time": 55.48
+            }
+        ]
+    }
+]

@@ -1,0 +1,6 @@
+from evaluate import load
+wer = load("wer")
+predictions = ["a lô. lỡ. ngày. n. ủa tôi hỏi anh không phải tin may thôi mắc cái gì mà anh nói kiểu đó. máy bay. anh ăn con đi ăn chưa. tổng ban ngày. anh chặn có một ngàn số tôi cũng gọi được nữa anh khỏi chặn mà anh chặn có mấy số. ờ ờ ờ tụi mày đã. cho tôi hỏi anh nào sẽ ăn đánh răng chưa. hay là giờ cái kem đánh răng của anh hết hạn sử dụng rồi. à mày có.. em muốn nhận coi anh còn hạng sử dụng không. họ. đồ sọc đó dành cho anh á. cổ vẹn cho mày. ngoại góp."]
+references = ["Alo anh em hỏi anh mai ủa tôi hỏi anh không phải tên mai thôi mắc cái gì mà anh nói chuyện kiểu đó đánh rang chưa bây giờ anh mây anh chặn có một ngàn số tôi cũng gọi được nữa anh khỏi chặn anh chặn có mấy số tôi hỏi anh nè sáng anh đánh răng chưa hay là do cái kem đánh răng của anh hết hạn sử dụng rồi kem đánh răng của anh còn hạn sử dụng không đồ sọc ó dành cho anh đó tôi chỉ thích li vơ pun thôi "]
+wer_score = wer.compute(predictions=predictions, references=references)
+print(1-wer_score)

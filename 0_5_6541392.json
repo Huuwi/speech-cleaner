@@ -1,0 +1,200 @@
+[
+    {
+        "status": "success",
+        "output_path": "/0203954690100449/transcriber/6541392.wav.json",
+        "transcriptions": [
+            {
+                "speaker": "SPEAKER_00",
+                "text": "tiếc tiền hay công nghệ.",
+                "start_time": 0.03,
+                "end_time": 1.62
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "a lô a lô anh nghe đây em ờ a lô cho em hỏi về số điện thoại này của chị thanh hoa á mở.",
+                "start_time": 2.06,
+                "end_time": 6.75
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "a lô anh nghe đấy em.",
+                "start_time": 2.71,
+                "end_time": 3.88
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "không không không không không.",
+                "start_time": 6.75,
+                "end_time": 7.88
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "sao ạ.",
+                "start_time": 8.32,
+                "end_time": 8.82
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "anh có quen chị thanh hoá mà anh.",
+                "start_time": 8.82,
+                "end_time": 10.38
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "có..",
+                "start_time": 10.29,
+                "end_time": 10.86
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "có hở dạ là việc của chị thanh hoá a hả.",
+                "start_time": 11.03,
+                "end_time": 12.87
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "có.",
+                "start_time": 12.32,
+                "end_time": 12.74
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "đúng rồi đúng rồi.",
+                "start_time": 13.16,
+                "end_time": 13.87
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "ý là anh là giữa chị thanh hoá để em tìm điểm xưng hô anh.",
+                "start_time": 13.82,
+                "end_time": 16.2
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "chị cứ vô vấn đề trên đi còn đây chính là vấn đề.",
+                "start_time": 16.16,
+                "end_time": 18.9
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "vậy chính là vụ vấn đề sao anh thì giờ người ta hỏi vậy đó anh trả lời vụ vấn đề chính đi người ta hỏi anh đó ngược lại trả lời vấn đề chính đi.",
+                "start_time": 18.15,
+                "end_time": 25.21
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "nói kỹ nhanh lên.",
+                "start_time": 20.33,
+                "end_time": 21.29
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "chỉ............................................................................................................................................................................................................................................................................................................................................................................................................................................ th th cờ cố cả một đống dích",
+                "start_time": 23.45,
+                "end_time": 24.2
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "em nhớ anh có gì không nhớ thì sao.",
+                "start_time": 25.06,
+                "end_time": 26.91
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "không anh làm gì có cửa để em nhớ.",
+                "start_time": 26.74,
+                "end_time": 28.97
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "không có cửa thì mình mua cửa hàng cửa ộp.",
+                "start_time": 28.53,
+                "end_time": 31.27
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "nó ở hàng cửa.",
+                "start_time": 30.25,
+                "end_time": 31.23
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "ôi anh ngữ nhanh là do có cỡ.",
+                "start_time": 31.27,
+                "end_time": 33.21
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "lúc nói đi hội cửa anh đăng hàng cửa này qua đây đi rách cửa luôn á.",
+                "start_time": 33.48,
+                "end_time": 37.27
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "đăng hàng cửa này qua đây rắc cửa luôn á.",
+                "start_time": 34.96,
+                "end_time": 37.43
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "a.",
+                "start_time": 37.75,
+                "end_time": 38.24
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "anh có quen biết chị thanh hoá hay không trả lời có hay là không sao anh lại dối hoá mối quan hệ.",
+                "start_time": 38.24,
+                "end_time": 42.3
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "biết.",
+                "start_time": 39.64,
+                "end_time": 40.08
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "chia.",
+                "start_time": 41.34,
+                "end_time": 41.83
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "biết em yêu rồi biết em yêu.",
+                "start_time": 42.18,
+                "end_time": 43.96
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "anh yêu em anh yêu chị thanh hoá hả.",
+                "start_time": 43.82,
+                "end_time": 46.08
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "đâu yêu em anh hoa đâu hờ yêu em em yêu ai không.",
+                "start_time": 45.9,
+                "end_time": 50.12
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "yêu em hình hoa.",
+                "start_time": 46.56,
+                "end_time": 47.77
+            },
+            {
+                "speaker": "SPEAKER_01",
+                "text": "không anh anh là không có cửa rồi đó thì bít cửa.",
+                "start_time": 50.07,
+                "end_time": 52.55
+            },
+            {
+                "speaker": "SPEAKER_00",
+                "text": "dí.",
+                "start_time": 52.33,
+                "end_time": 53.19
+            }
+        ]
+    }
+]
